@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+asyncpg
+starlette
+greenlet
